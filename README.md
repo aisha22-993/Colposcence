@@ -1,7 +1,7 @@
 ## BUET Multi-Center Colposcopy Dataset
 
 ### Overview
-This repository contains a novel, multi-center colposcopy dataset created to address the limited representation of Bangladeshi patients in publicly available datasets. Curated in collaboration with multiple clinical sites in Dhaka, Bangladesh, this dataset provides a diverse and robust collection of clinical images and corresponding medical scores to aid in cervical cancer screening research. 
+This repository contains a novel, multi-center colposcopy dataset created to address the limited representation of Bangladeshi patients in publicly available datasets. Curated in collaboration with multiple clinical sites in Dhaka, Bangladesh. This dataset provides a diverse and robust collection of clinical images and corresponding medical scores to aid in cervical cancer screening research. 
 
 ### Ethics & Data Privacy
 Data collection and usage strictly adhered to ethical guidelines:
@@ -21,10 +21,9 @@ For each patient, a four-image series was obtained, corresponding to the followi
 **Clinical Metadata Included:**
 * Transformation zone type
 * Total Swede score (which can be mapped to a provisional diagnosis)
-* *Validation Note:* Select CIN2 and CIN3+ diagnoses were reviewed by a second colposcopist to validate case grading prior to inclusion.
 
 ### Swede Score Distribution
-The clinical reports document five distinct Swede Score characteristics. The score distributions across the dataset are summarized in the table below (also referenced in the repository as `image_a7bfe6.png`):
+The clinical reports document five distinct Swede Score characteristics. The score distributions across the dataset are summarized in the table below:
 
 | Characteristic | Score 0 | Score 1 | Score 2 |
 | :--- | :--- | :--- | :--- |
